@@ -5,7 +5,7 @@
 
 - 👯 Я в коллаборации с [DHM Inc.](https://discord.gg/9XX2VQdE)
 
-- 👨‍💻 Все мои проекты [https://github.com/CkutlsGit?tab=repositories](https://github.com/CkutlsGit?tab=repositories)
+- 👨‍💻 [Все мои проекты](https://github.com/CkutlsGit?tab=repositories)
 
 - 💬 Спросите у меня об **Express.js**
 
