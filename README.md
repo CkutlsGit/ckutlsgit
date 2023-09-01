@@ -1,6 +1,6 @@
 <h1 align="center">👋 Привет ,я Константин</h1>
 <h3 align="center">💡Trainee Frontend Developer</h3>
-<h3 aligh="center">🎂16 y.o</h3>
+<h3 align="center">🎂16 y.o</h3>
 
 - 🌱 Я изучаю в данный момент **JavaScript Advanced, SCSS & SASS,Npm Advanced**
 
