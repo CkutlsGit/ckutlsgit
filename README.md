@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋,я Константин</h1>
+<h1 align="center">👋 Привет ,я Константин</h1>
 <h3 align="center">💡Trainee Frontend Developer</h3>
 
 - 🌱 Я изучаю в данный момент **JavaScript Advanced, SCSS & SASS,Npm Advanced**
