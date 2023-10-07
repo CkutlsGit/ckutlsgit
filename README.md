@@ -2,7 +2,7 @@
 <h3 align="center">💡Trainee Frontend Developer</h3>
 <h3 align="center">🎂16 y.o</h3>
 
-- 📖 Я изучаю в данный момент **JavaScript Advanced, SCSS & SASS,Npm Advanced**
+- 📖 Я изучаю в данный момент **Vue.JS, Sass/Scss, Jquery, Vitest, Typescript, webpack base**
 
 - 🤝 Я в коллаборации с [DHM Inc.](https://discord.gg/9XX2VQdE)
 
