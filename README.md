@@ -7,7 +7,7 @@
 
 - 🛠️ Мой проект [MedMark](https://github.com/CkutlsGit/medmark--vue)
 
-- 👨‍💻 Все мои проекты [https://github.com/CkutlsGit?tab=repositories](https://github.com/CkutlsGit?tab=repositories)
+- 👨‍💻 Все мои проекты [Посмотреть](https://github.com/CkutlsGit?tab=repositories)
 
 - 🤔 Спросите у меня об **vue**
 
