@@ -5,9 +5,13 @@
 
 - 🤝 Я в коллаборации с [DHM Inc.](https://discord.gg/9XX2VQdE)
 
-- 👨‍💻 Все мои проекты [Тык](https://github.com/CkutlsGit?tab=repositories)
+- 🛠️ Мой проект [MedMark](https://github.com/CkutlsGit/medmark--vue)
+
+- 👨‍💻 Все мои проекты [https://github.com/CkutlsGit?tab=repositories](https://github.com/CkutlsGit?tab=repositories)
 
 - 🤔 Спросите у меня об **vue**
+
+- 📨 Связаться со мной **konstantinmerr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
