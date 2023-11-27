@@ -1,16 +1,12 @@
 <h1 align="center">Константин</h1>
-<h3 align="center">💡Trainee Frontend Developer</h3>
+<h3 align="center">💡Frontend Developer</h3>
 <h3 align="center">🎂16 y.o</h3>
 
-- 📖 Я изучаю в данный момент **vue.js, sass/scss, webpack**
+- 🤝 Я в коллаборации с [LD](https://discord.gg/uVFgeA4M)
 
-- 🤝 Я в коллаборации с [DHM Inc.](https://discord.gg/9XX2VQdE)
-
-- 🛠️ Мой проект [MedMark](https://github.com/CkutlsGit/medmark--vue)
+- 🛠️ Мой один из проектов [MedMark](https://github.com/CkutlsGit/medmark--vue)
 
 - 👨‍💻 Все мои проекты [Посмотреть](https://github.com/CkutlsGit?tab=repositories)
-
-- 🤔 Спросите у меня об **vue**
 
 - 📨 Связаться со мной **konstantinmerr@gmail.com**
 
