@@ -4,7 +4,7 @@
 
 - 🤝 I'm in collaboration with [LD](https://discord.gg/uVFgeA4M)
 
-- 🛠️ My one of the projects [MedMark](https://github.com/CkutlsGit/medmark--vue)
+- 🛠️ My one of the projects [Weather APP](https://github.com/CkutlsGit/weather-app--vue)
 
 - 👨‍💻 All my projects [Watch](https://github.com/CkutlsGit?tab=repositories)
 
