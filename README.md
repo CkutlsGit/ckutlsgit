@@ -4,7 +4,7 @@
 ### <div align="center">Frontend Developer</div>  
   
 
-- 🔭 I’m currently working on [Lucky Diamond](https://github.com/danilt2000/LuckyDiamond)  
+- 🔭 I’m currently working on [On yourself](https://github.com/Ckutls)  
   
 
 - 🛠️ My one of the projects [Weather App](https://github.com/CkutlsGit/weather-app--vue)  
