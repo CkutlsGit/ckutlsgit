@@ -4,10 +4,10 @@
 ### <div align="center">Frontend Developer</div>  
   
 
-- 🔭 I’m currently working [On yourself](https://github.com/CkutlsGit)  
+- 🔭 I’m currently working [Diamonds Studio](https://github.com/Diamonds-Studio)  
   
 
-- 🛠️ My one of the projects [Weather App](https://github.com/CkutlsGit/weather-app--vue)  
+- 🛠️ My one of the projects [helpcode](https://github.com/CkutlsGit/helpcode)  
   
 
 -  👨‍💻 All my projects [Watch](https://github.com/CkutlsGit?tab=repositories)  
