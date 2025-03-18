@@ -2,10 +2,7 @@
   
 
 ### <div align="center">Frontend Developer</div>    
-
-- 🔭 I’m currently working [Diamonds Studio](https://github.com/Diamonds-Studio)  
   
-
 - 🛠️ My one of the projects [SPDonate](https://www.sp-donate.ru)  
   
 
